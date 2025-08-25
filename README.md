@@ -1,16 +1,10 @@
-# myapp
+## TeamBuilder_App
+#วิธีการทำ
+1.ทำการสร้าง Flutter Create Myapp
+2.ทำการสร้างไฟล์ ใน lib เช่น data ,controllers ,models ,page เป็นต้น
+3.สร้างไฟล์ .dart และทำการเขียนโค้ด ,เพื่อสร้าง ,การสร้างทีม ,บันทึกและแก้ไขและลบ ,ช่องค้นหา เป็นต้น
+4.นำรูปและชื่อจาก PokeAPI เข้าสู่โค้ด
+5.ทำการตกแต่งไฟล์ Ui ให้สวยงานและทำการ push ขึ้น git
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#วิธีการรัน
+flutter run -d web-server
