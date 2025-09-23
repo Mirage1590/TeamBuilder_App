@@ -1,0 +1,141 @@
+{
+   "checksum": "65e2e2ea5ec4348ac35e0cf7eef6f9b5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13403098698070126",
+            "date_last_used": "0",
+            "guid": "6c074f14-91fd-4d6a-9e03-f3813ffa3749",
+            "id": "18",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/agoda.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13403098698069983",
+            "date_last_used": "0",
+            "guid": "026e112b-c457-47b8-9bce-45a96e111904",
+            "id": "17",
+            "name": "Amazon",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13403098698069259",
+            "date_last_used": "0",
+            "guid": "0837955e-0a44-43e5-824c-86d777a28116",
+            "id": "16",
+            "name": "Facebook",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/20q2/facebook.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13364464844547232",
+            "date_last_used": "0",
+            "guid": "6477f6cd-52c8-4a53-be5e-806ba8659e1d",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "19",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1Z2yHeMg17xal86SmfZeo6hbVpQk26Vcr1LAt1-GfjrY/edit?gid=0#gid=0",
+            "visit_count": 0
+         }, {
+            "children": [ {
+               "date_added": "13345275388788666",
+               "date_last_used": "0",
+               "guid": "bdbfb77e-f5da-4d57-a6bf-1a31b1720ebe",
+               "id": "13",
+               "name": "Acer",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.acer.com/",
+               "visit_count": 0
+            } ],
+            "date_added": "13403098197032703",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "95b4afb5-5698-4302-9005-e4ba6c34d8e6",
+            "id": "12",
+            "name": "Acer",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13403098193838035",
+            "date_last_used": "0",
+            "guid": "30ecf694-6dd5-4a9a-a611-e85b83b1e10b",
+            "id": "8",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/agoda.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13403098193837966",
+            "date_last_used": "0",
+            "guid": "99df6c10-7e30-4771-baec-590938e7d496",
+            "id": "7",
+            "name": "Amazon",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13403098193837770",
+            "date_last_used": "0",
+            "guid": "5ed2fa5e-6b10-4f7d-8dee-c2f25eaa5a6f",
+            "id": "6",
+            "name": "Facebook",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/20q2/facebook.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         } ],
+         "date_added": "13403098193664278",
+         "date_last_used": "0",
+         "date_modified": "13403098698070126",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13403098193664278",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13403098193664278",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CosBCg4IiIECEgjhiTZ2mQEAABIAGlhDS0c0NVJrVXQyY1ZMUlVVS0ZQSUl4MUN3M1VlTlR3Z2ZnNFg3Vmg5MzcvaEprOG8rWlpQbFFMU29lYUlIazhBYnFVbXZxeGEyTkF3VTNFZTZYUStydz09KhhUOFZrWi9zVWEvaE9HL01TeWplSFZnPT1IA6AGDBKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRjYTc1M2JiZS02YWU5LTVhNDYtYjcxMi1iYjA5NTQ1MzI2NTkYACAAKAAw25LtmLoxOPmV7Zi6MUD5le2YujFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkNGE4MTUyZmMtM2NjMC01M2U0LWIyZDMtOGNiYmUzMjI2YTNkGAAgACgAMOCS7Zi6MTjElu2YujFAxJbtmLoxShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAEqwBCA0SpwEKHHNoL3o0dzMvbkZ1dHVUN3JYdXdLWlNHMCsvRT0SJGJkYmZiNzdlLWY1ZGEtNGQ1Ny1hNmJmLTFhMzFiMTcyMGViZRgAIAAoADD7mKHX+TI4gp6h1/kyQIKeodf5MkocTjBkc0pGWGdnL1Z4YWxYcFVCYjU1cWtSODNZPVoeIhxtR3BObEszWjNGMjRpQlM4L05JZDZHNGFvSUE9ZQAAAADCPgJgAhKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ4ZDE1ZGU2Yy05ZDk1LTU1ZTQtYTMzYy01ODNiNGY1MDQxMzMYACAAKAAw2pLtmLoxONSV7Zi6MUDUle2YujFKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASrAEICxKnAQocZ2hIa2pySWJhcjd6dnovTjJrTG9KcTkweDVRPRIkNjQ3N2Y2Y2QtNTJjOC00YTUzLWJlNWUtODA2YmE4NjU5ZTFkGAAgACgAMPvs37eAMzjfxN67hzJA38Teu4cyShx6djRMdXFyN3YvSnhhS1BEUmp0YTgva2xzVVE9Wh4iHGgvQTEya3ZMYmJocjVuV0U3R2dwemcyT1ByUT1lvivuR8I+AmAFEq0BCAwSqAEKHFVCQ295eUFPYVNTN0RHVVZ2czVRbjZDMTdqST0SJDk1YjRhZmI1LTU2OTgtNDMwMi05MDA1LWU0YmE2YzM0ZDhlNhgAIAAoADD6mKHX+TI4wp2h1/kyQMKdodf5MkoceW92alRaRnRNUU9YSTdVUFlNd3ZUczB1eVNBPVofIh20YnpqRUZaREFmSm9ObytMN05TNGVaR0ppbUxFPWUAAAAAwj4CYAAwADgA",
+   "version": 1
+}
